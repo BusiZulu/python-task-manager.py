@@ -21,3 +21,4 @@ This project was created to practice Python fundamentals including:
 
 ## How to Run
 Run the file using:
+python task_manager.py
